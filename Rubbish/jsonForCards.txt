@@ -1,0 +1,80 @@
+{
+            "id":"6358d06a4eec4c03bb1cfbfc",
+            "badges":{
+                "attachmentsByType":{
+                    "trello":{
+                        "board":0,
+                        "card":0
+                    }
+                },
+                "location":False,
+                "votes":0,
+                "viewingMemberVoted":False,
+                "subscribed":False,
+                "fogbugz":"",
+                "checkItems":0,
+                "checkItemsChecked":0,
+                "checkItemsEarliestDue":"None",
+                "comments":0,
+                "attachments":0,
+                "description":False,
+                "due":"2022-11-03T15:59:00.000Z",
+                "dueComplete":False,
+                "start":"None"
+            },
+            "checkItemStates":"None",
+            "closed":False,
+            "dueComplete":False,
+            "dateLastActivity":"2022-11-03T01:17:51.837Z",
+            "desc":"",
+            "descData":{
+                "emoji":{
+                    
+                }
+            },
+            "due":"2022-11-03T15:59:00.000Z",
+            "dueReminder":1440,
+            "email":"None",
+            "idBoard":"631fea08bd9ab000761077dc",
+            "idChecklists":[
+                
+            ],
+            "idList":"631fea08bd9ab000761077e3",
+            "idMembers":[
+                
+            ],
+            "idMembersVoted":[
+                
+            ],
+            "idShort":61,
+            "idAttachmentCover":"None",
+            "labels":[
+                {
+                    "id":"631fea08d6e1590004dadf35",
+                    "idBoard":"631fea08bd9ab000761077dc",
+                    "name":"Computer Systems",
+                    "color":"yellow"
+                }
+            ],
+            "idLabels":[
+                "631fea08d6e1590004dadf35"
+            ],
+            "manualCoverAttachment":False,
+            "name":"Computer Systems - Quiz",
+            "pos":446804.3333333333,
+            "shortLink":"TixY90hO",
+            "shortUrl":"https://trello.com/c/TixY90hO",
+            "start":"None",
+            "subscribed":False,
+            "url":"https://trello.com/c/TixY90hO/61-computer-systems-quiz",
+            "cover":{
+                "idAttachment":"None",
+                "color":"None",
+                "idUploadedBackground":"None",
+                "size":"normal",
+                "brightness":"dark",
+                "idPlugin":"None"
+            },
+            "isTemplate":False,
+            "cardRole":"None"
+        }
